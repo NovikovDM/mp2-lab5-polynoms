@@ -100,6 +100,7 @@ public:
 		Clear();
 	}
 
+
 	TList<T>& operator = (const TList<T> & l)
 	{
 		link<T>*count = l.pFirst;

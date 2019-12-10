@@ -4,7 +4,6 @@
 #include "TPolynom.h"
 
 using namespace std;
-
 int main()
 {
 	string expression1, expression2;

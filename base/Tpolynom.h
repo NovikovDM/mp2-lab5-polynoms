@@ -41,7 +41,6 @@ class TPolinom
 			return tmp;
 		}
 	};
-
 	TList<Monom> Polinom;
 	string startpolinom;
 public:
