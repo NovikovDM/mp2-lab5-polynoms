@@ -1,6 +1,7 @@
 ﻿#include"TList.h"
 #include"TPolynom.h"
 
+
 TPolinom::TPolinom(const TPolinom & pl)
 {
 	this->startpolinom = pl.startpolinom;
